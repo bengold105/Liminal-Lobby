@@ -11,14 +11,21 @@ During the game, the player will be put into the same room and have to identify 
   <img src="https://github.com/bengold105/Liminal-Lobby/blob/main/gifs/lobby2.gif" alt="gif2" />
 </p>
 
+## Levels
+
+Each level is different in some way from the reference scene where the player starts, here's some examples:
+
+#### broken plant pot
 <p align="center">
   <img src="https://github.com/bengold105/Liminal-Lobby/blob/main/gifs/lobby3.gif" alt="gif3" />
 </p>
 
+#### misplaced fire extinguisher
 <p align="center">
   <img src="https://github.com/bengold105/Liminal-Lobby/blob/main/gifs/lobby4.gif" alt="gif4" />
 </p>
 
+#### Seems like someone left too many balloons after a party
 <p align="center">
   <img src="https://github.com/bengold105/Liminal-Lobby/blob/main/gifs/lobby5.gif" alt="gif5" />
 </p>
